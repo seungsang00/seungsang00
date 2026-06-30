@@ -1,6 +1,5 @@
 ## 안녕하세요 👋
-🌱 Web frontend developer 유승연입니다 🌱  
-
+유승연입니다 
 
 
 <!--
